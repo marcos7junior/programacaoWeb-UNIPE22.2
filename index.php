@@ -19,24 +19,26 @@
 			<p class="titulo">Formulário 2</p>
 		</div>
 		<div class="card">
-			<a href=""><img src="./assets/img/form.png" alt=""></a>
+			<a href="./assets/php/formulario3.php"><img src="./assets/img/form.png" alt=""></a>
 			<p class="titulo">Formulário 3</p>
 		</div>
 		<div class="card">
-			<a href=""><img src="./assets/img/form.png" alt=""></a>
+			<a href="./assets/php/formulario4.php"><img src="./assets/img/form.png" alt=""></a>
 			<p class="titulo">Formulário 4</p>
 		</div>
 		<div class="card">
-			<a href=""><img src="./assets/img/form.png" alt=""></a>
+			<a href="./assets/php/formulario5.php"><img src="./assets/img/form.png" alt=""></a>
 			<p class="titulo">Formulário 5</p>
 		</div>
 	</div>
 
 	<section class="grupo">
 			<h1>Grupo:</h1>
-			<p>Ana vitória</p>
+			<p>Ana Vitória</p>
 			<p>Marcos Antônio</p>
-
+			<p>Marcela Rodriguez</p>
+			<p>Felipe Rodriguez</p>
+			<p>Jonatha Falcão</p>
 	</section>
 
 </body>
